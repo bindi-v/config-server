@@ -4,9 +4,6 @@ server.port=2244
 # allow for RefreshScope
 management.endpoints.web.exposure.include=*
 
-# the random-quote-service will use this as the greeting that it serves up
-officialGreeting="This is Greetings from the Random Quote Service!!! We're glad you're here!!!!!!"
-
 # the random-quote-service will use this as the random quotes that it serves up
 randomQuotes="To me, programming is more than an important practical art. It is also a gigantic undertaking in the foundations of knowledge. - Grace Hopper",
              "Programs must be written for people to read, and only incidentally for machines to execute. - Hal Ableson",
